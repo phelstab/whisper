@@ -1,3 +1,4 @@
 openai-whisper
 ipykernel
 moviepy
+numpy>=1.21.5,<2.0.0
